@@ -1,0 +1,22 @@
+{
+    "name": "The Tiger",
+    "symbol": "GAF",
+    "rarity": "Epic",
+    "description":"The tiger is the largest of all felines. It has black vertical stripes on an orange coat. A male weighs 180-260 kg, while the tigress weighs only 130-160 kg. With a long tail that can go up to 1 meter, this animal can reach a size of 2.80 m.",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EVNxGa45SVh2q2Cb2kVDtB6np8rQydA7Hdz8L8Q4kCq",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "Animals", "family": "Genesis"}
+    }
+  }

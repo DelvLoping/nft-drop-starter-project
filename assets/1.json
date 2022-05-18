@@ -1,0 +1,22 @@
+{
+    "name": "The Elephant",
+    "symbol": "GAF",
+    "rarity": "Uncommon",
+    "description":"Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EVNxGa45SVh2q2Cb2kVDtB6np8rQydA7Hdz8L8Q4kCq",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "Animals", "family": "Genesis"}
+    }
+  }

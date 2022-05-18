@@ -1,0 +1,22 @@
+{
+    "name": "The Snake",
+    "symbol": "GAF",
+    "rarity": "Legendary",
+    "description": "The most dangereous animal in the world is the snake, he can bit you and insert venom in your blood that will kill you in 1 hour without antidot",
+    "image": "4.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "4.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EVNxGa45SVh2q2Cb2kVDtB6np8rQydA7Hdz8L8Q4kCq",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "Animals", "family": "Genesis"}
+    }
+  }

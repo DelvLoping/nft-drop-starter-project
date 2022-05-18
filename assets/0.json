@@ -1,0 +1,22 @@
+{
+    "name": "The Cat",
+    "symbol": "GAF",
+    "rarity": "Common",
+    "description":"The cat (Felis catus) is a domestic species of small carnivorous mammal",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EVNxGa45SVh2q2Cb2kVDtB6np8rQydA7Hdz8L8Q4kCq",
+          "share": 100
+        }
+      ],
+      "collection": {"name": "Animals", "family": "Genesis"}
+    }
+  }

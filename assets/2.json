@@ -1,0 +1,19 @@
+{
+    "name": "The Walruse",
+    "symbol": "Rare",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EVNxGa45SVh2q2Cb2kVDtB6np8rQydA7Hdz8L8Q4kCq",
+          "share": 100
+        }
+      ]
+    }
+  }
