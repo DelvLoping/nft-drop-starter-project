@@ -1,6 +1,8 @@
 {
     "name": "The Walruse",
-    "symbol": "Rare",
+    "symbol": "GAF",
+    "rarity": "Rare",
+    "description":"The walrus (Odobenus rosmarus) is a large flippered marine mammal with a discontinuous distribution about the North Pole in the Arctic Ocean and subarctic seas of the Northern Hemisphere. ",
     "image": "2.png",
     "properties": {
       "files": [
@@ -14,6 +16,7 @@
           "address": "EVNxGa45SVh2q2Cb2kVDtB6np8rQydA7Hdz8L8Q4kCq",
           "share": 100
         }
-      ]
+      ],
+      "collection": {"name": "Animals", "family": "Genesis"}
     }
   }
